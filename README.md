@@ -36,7 +36,7 @@
  <img src="https://img.shields.io/twitter/follow/malikattique1?logo=twitterstyle=flat&color=brightgreen" alt="malikattique1" />
 </p>
 
-<a href=#><img src="contributions.svg" alt = "contributions"></a>
+
 
 ## 🚀 Languages and Tools:
 
