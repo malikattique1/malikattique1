@@ -78,16 +78,14 @@
 
 <br/>
 <br/>
-<img alt="Ayush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=malikattique1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
-<br/>
 <br/>
 
 ## Contact Me ☎️
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/ayush-soni-340a9b222/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/attiqueurrehman12/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   
 - Mail me on attiqueurrehman12@gmail.com 
 
