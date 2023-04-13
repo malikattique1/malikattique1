@@ -31,9 +31,9 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/AyushSoni86" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=AyushSoni86&style=flat&color=brightgreen">  -->
-  <img src="https://img.shields.io/github/stars/AyushSoni86?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
- <img src="https://img.shields.io/twitter/follow/AyushSoni2464?logo=twitterstyle=flat&color=brightgreen" alt="AyushSoni2464" />
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=malikattique1&style=flat&color=brightgreen">  -->
+  <img src="https://img.shields.io/github/stars/malikattique1?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+ <img src="https://img.shields.io/twitter/follow/malikattique1?logo=twitterstyle=flat&color=brightgreen" alt="malikattique1" />
 </p>
 
 <a href=#><img src="contributions.svg" alt = "contributions"></a>
@@ -50,7 +50,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -70,15 +70,15 @@
 ## 📊 My Github Stats
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushSoni86&show_icons=true&locale=en&theme=highcontrast" alt="AyushSoni86" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikattique1&show_icons=true&locale=en&theme=highcontrast" alt="malikattique1" /></p>
 <br>
                                   
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSoni86&&theme=highcontrast" alt="ayushsoni86" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikattique1&&theme=highcontrast" alt="malikattique1" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
-<img alt="Ayush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AyushSoni86&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Ayush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=malikattique1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 <br/>
 <br/>
@@ -89,6 +89,6 @@
 
 <a href = "https://www.linkedin.com/in/ayush-soni-340a9b222/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   
-- Mail me on ayusoni86@gmail.com 
+- Mail me on attiqueurrehman12@gmail.com 
 
 </p>
