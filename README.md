@@ -8,7 +8,7 @@
   </a>
 </h1>
 <!-- //change here  -->
-<h2 align="center">I'm Ayush Soni, a Full-Stack Web Developer 👨‍💻 🚀</h2>  
+<h2 align="center">I'm Attique, a Full-Stack Web Developer 👨‍💻 🚀</h2>  
   <br/>
 
 
@@ -26,7 +26,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AyushSoni86/count.svg" />
+  <img src="https://profile-counter.glitch.me/malikattique1/count.svg" />
 </p>
 
 <p align="center">
