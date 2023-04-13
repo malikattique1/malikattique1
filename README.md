@@ -67,18 +67,6 @@
 </p> -->
 
 
-## 📊 My Github Stats
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikattique1&show_icons=true&locale=en&theme=highcontrast" alt="malikattique1" /></p>
-<br>
-                                  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikattique1&&theme=highcontrast" alt="malikattique1" /></p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
 <br/>
 
 ## Contact Me ☎️
