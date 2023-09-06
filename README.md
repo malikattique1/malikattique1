@@ -8,7 +8,7 @@
   </a>
 </h1>
 <!-- //change here  -->
-<h2 align="center">I'm Attique, a Full-Stack Web Developer 👨‍💻 🚀</h2>  
+<h2 align="center">I'm Attique, a Full-Stack Web Developer 👨‍💻 </h2>  
   <br/>
 
 
