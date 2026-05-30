@@ -7,7 +7,6 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
-<!-- //change here  -->
 <h2 align="center">I'm Attique, a Full-Stack Web Developer 👨‍💻 </h2>  
   <br/>
 
