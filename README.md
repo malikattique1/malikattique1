@@ -15,9 +15,9 @@
   <img align="right" height="250" width="auto" margin-top = "-10px" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"">
 </a>
 
-- ⚡ Currently deep-diving into **Kubernetes orchestration & event-driven architectures**
+- ⚡ Currently deep-diving into **Kubernetes & event-driven architectures**
 - ⚡ Looking to collaborate on **Backends & Full-Stack Development**
-- ⚡ Ask me about anything related to DevOps, MERN stack, Python, PHP & related techs
+- ⚡ Ask me anything related to DevOps, MERN, Python, PHP & related techs
 
 <br/>
 <br>    
